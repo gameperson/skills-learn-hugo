@@ -9,8 +9,8 @@
 
  ### working with hugo
  current marker:
- [https://gohugo.io/getting-started/](https://gohugo.io/getting-started/)
-
+ [https://gohugo.io/getting-started/](https://gohugo.io/getting-started/quick-start/)
+ 
  ### Gemini project overview
  working on step 2
  current marker: 
