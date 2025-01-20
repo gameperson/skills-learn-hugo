@@ -9,7 +9,7 @@
 
  ### working with hugo
  current marker:
- [https://gohugo.io/about/features/](https://gohugo.io/getting-started/)
+ [https://gohugo.io/getting-started/](https://gohugo.io/getting-started/)
 
  ### Gemini project overview
  working on step 2
