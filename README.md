@@ -11,6 +11,8 @@
  current marker:
  [https://gohugo.io/getting-started/](https://gohugo.io/getting-started/quick-start/)
  
+
+ Create GitHubn Codespace
  ### Gemini project overview
  working on step 2
  current marker: 
