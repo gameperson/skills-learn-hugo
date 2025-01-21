@@ -9,7 +9,7 @@
 
  ### working with hugo
  current marker:
- [https://gohugo.io/getting-started/](https://gohugo.io/getting-started/quick-start/)
+ [https://gohugo.io/getting-started/quick-start/#explanation-of-commands](https://gohugo.io/getting-started/quick-start/#explanation-of-commands/)
  
 
  Create GitHubn Codespace
