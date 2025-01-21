@@ -10,6 +10,8 @@
  ### working with hugo
  current marker:
  [https://gohugo.io/getting-started/quick-start/#explanation-of-commands](https://gohugo.io/getting-started/quick-start/#explanation-of-commands/)
+
+ [https://shotor.com/blog/build-a-hugo-static-site-in-your-browser-using-github-codespaces/](https://shotor.com/blog/build-a-hugo-static-site-in-your-browser-using-github-codespaces/)
  
 
  Create GitHubn Codespace
